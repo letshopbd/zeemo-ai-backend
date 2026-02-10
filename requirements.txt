@@ -4,5 +4,4 @@ groq
 tavily-python
 python-dotenv
 edge-tts
-pygame
 pydub
